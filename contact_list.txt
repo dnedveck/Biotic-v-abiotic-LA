@@ -6,7 +6,14 @@ Amanda Gorton <gorto019@umn.edu>
 Ryan Runquist <rbriscoe@umn.edu>
 Shan Kothari <kotha020@umn.edu>
 Marta Lyons <marta.lyons@gmail.com>
+<<<<<<< HEAD
 Georgiana May <gmay@umn.edu>
 David Moeller <moeller@umn.edu>
+=======
+Amber Eule-Nashoba <eule0001@umn.edu>
+Georgiana May <gmay@umn.edu>
+David Moeller <moeller@umn.edu>
+Ruth Shaw <shawx016@umn.edu>
+>>>>>>> FETCH_HEAD
 Maria Rebolleda-Gomez <rebol004@umn.edu>
 Jake Grossman <grossman.jake@gmail.com>
